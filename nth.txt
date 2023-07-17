@@ -1,0 +1,4 @@
+TCS,Sai,Nani,Satya,Rajesh
+WIPRO,Nani,Srinu,Tarun,Ganga,Vikash
+INFOSYS,Hari,Giri,Siri,Teja,Prasad
+CTS,Tarun,Satya,Renu,Anil,Sunil
